@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/datc-react-demo/static/css/main.128dc95d.chunk.css",
+    "main.js": "/datc-react-demo/static/js/main.bf9229f8.chunk.js",
+    "main.js.map": "/datc-react-demo/static/js/main.bf9229f8.chunk.js.map",
+    "runtime-main.js": "/datc-react-demo/static/js/runtime-main.46afd728.js",
+    "runtime-main.js.map": "/datc-react-demo/static/js/runtime-main.46afd728.js.map",
+    "static/css/2.983f79de.chunk.css": "/datc-react-demo/static/css/2.983f79de.chunk.css",
+    "static/js/2.2c7977fa.chunk.js": "/datc-react-demo/static/js/2.2c7977fa.chunk.js",
+    "static/js/2.2c7977fa.chunk.js.map": "/datc-react-demo/static/js/2.2c7977fa.chunk.js.map",
+    "static/js/3.a889d428.chunk.js": "/datc-react-demo/static/js/3.a889d428.chunk.js",
+    "static/js/3.a889d428.chunk.js.map": "/datc-react-demo/static/js/3.a889d428.chunk.js.map",
+    "index.html": "/datc-react-demo/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/datc-react-demo/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.128dc95d.chunk.css.map": "/datc-react-demo/static/css/main.128dc95d.chunk.css.map",
+    "static/js/2.2c7977fa.chunk.js.LICENSE.txt": "/datc-react-demo/static/js/2.2c7977fa.chunk.js.LICENSE.txt",
+    "static/media/accenture-logo.6bfee3be.png": "/datc-react-demo/static/media/accenture-logo.6bfee3be.png",
+    "static/media/wp.35acd370.jpg": "/datc-react-demo/static/media/wp.35acd370.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46afd728.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.2c7977fa.chunk.js",
+    "static/css/main.128dc95d.chunk.css",
+    "static/js/main.bf9229f8.chunk.js"
+  ]
+}
